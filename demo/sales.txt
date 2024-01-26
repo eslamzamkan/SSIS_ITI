@@ -1,0 +1,16 @@
+1,ahmed,10
+1,khalid,20
+4,khlid,90
+3,khalid,30
+4,ali,30
+3,ali,30
+2,ali,70
+2,khalid,40
+2,ahmed,55
+1,ali,100
+1,khalid,10
+1,ahmed,25
+4,ali,80
+3,ahmed,30
+2,khalid,30
+2,ahmed,15
